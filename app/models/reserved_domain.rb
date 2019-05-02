@@ -1,0 +1,2 @@
+class ReservedDomain < ApplicationRecord
+end

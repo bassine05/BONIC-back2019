@@ -1,0 +1,2 @@
+class PremiumDomain < ApplicationRecord
+end

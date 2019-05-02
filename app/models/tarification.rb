@@ -1,0 +1,2 @@
+class Tarification < ApplicationRecord
+end
